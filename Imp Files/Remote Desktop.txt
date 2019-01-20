@@ -1,7 +1,0 @@
-DNS : ec2-13-233-168-75.ap-south-1.compute.amazonaws.com
-Username : Administrator
-Password : V6Z83iejp(
-
-recruiterville
-dbuser
-recruiterville
