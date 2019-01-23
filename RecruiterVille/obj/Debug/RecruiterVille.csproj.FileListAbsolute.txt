@@ -86,3 +86,8 @@ D:\Karteek\RecruiterVille\RecruiterVille\bin\Microsoft.Owin.Security.MicrosoftAc
 D:\Karteek\RecruiterVille\RecruiterVille\obj\Debug\RecruiterVille.csprojResolveAssemblyReference.cache
 D:\Karteek\RecruiterVille\RecruiterVille\obj\Debug\RecruiterVille.dll
 D:\Karteek\RecruiterVille\RecruiterVille\obj\Debug\RecruiterVille.pdb
+D:\Karteek\RecruiterVille\RecruiterVille\bin\IRecruiterBAL.dll
+D:\Karteek\RecruiterVille\RecruiterVille\bin\RecruiterBE.dll
+D:\Karteek\RecruiterVille\RecruiterVille\bin\IRecruiterBAL.pdb
+D:\Karteek\RecruiterVille\RecruiterVille\bin\RecruiterBE.pdb
+D:\Karteek\RecruiterVille\RecruiterVille\bin\Microsoft.ApplicationBlocks.Data.dll

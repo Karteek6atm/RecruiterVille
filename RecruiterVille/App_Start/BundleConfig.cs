@@ -26,6 +26,17 @@ namespace RecruiterVille
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
+
+            //Login Section
+            bundles.Add(new StyleBundle("~/content/login").Include(
+                      "~/css/bootstrap.min.css",
+                      "~/css/styles.css"));
+
+            //Login Section
+            bundles.Add(new ScriptBundle("~/bundles/login").Include(
+                      "~/js/jquery-1.11.1.min.js",
+                      "~/js/bootstrap.min.js",
+                      "~/Scripts/Application/Login.js"));
         }
     }
 }

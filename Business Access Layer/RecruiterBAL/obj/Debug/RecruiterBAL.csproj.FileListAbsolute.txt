@@ -1,0 +1,9 @@
+D:\Karteek\RecruiterVille\Business Access Layer\RecruiterBAL\bin\Debug\RecruiterBAL.dll
+D:\Karteek\RecruiterVille\Business Access Layer\RecruiterBAL\bin\Debug\RecruiterBAL.pdb
+D:\Karteek\RecruiterVille\Business Access Layer\RecruiterBAL\obj\Debug\RecruiterBAL.dll
+D:\Karteek\RecruiterVille\Business Access Layer\RecruiterBAL\obj\Debug\RecruiterBAL.pdb
+D:\Karteek\RecruiterVille\Business Access Layer\RecruiterBAL\bin\Debug\IRecruiterBAL.dll
+D:\Karteek\RecruiterVille\Business Access Layer\RecruiterBAL\bin\Debug\RecruiterBE.dll
+D:\Karteek\RecruiterVille\Business Access Layer\RecruiterBAL\bin\Debug\RecruiterBE.pdb
+D:\Karteek\RecruiterVille\Business Access Layer\RecruiterBAL\bin\Debug\IRecruiterBAL.pdb
+D:\Karteek\RecruiterVille\Business Access Layer\RecruiterBAL\obj\Debug\RecruiterBAL.csprojResolveAssemblyReference.cache
