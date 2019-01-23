@@ -7,3 +7,13 @@ D:\Karteek\RecruiterVille\Data Access Layer\RecruiterDAL\bin\Debug\RecruiterBE.d
 D:\Karteek\RecruiterVille\Data Access Layer\RecruiterDAL\bin\Debug\RecruiterBE.pdb
 D:\Karteek\RecruiterVille\Data Access Layer\RecruiterDAL\bin\Debug\IRecruiterDAL.pdb
 D:\Karteek\RecruiterVille\Data Access Layer\RecruiterDAL\obj\Debug\RecruiterDAL.csprojResolveAssemblyReference.cache
+D:\Karteek\Projects\RecruiterVille\Data Access Layer\RecruiterDAL\bin\Debug\RecruiterDAL.dll
+D:\Karteek\Projects\RecruiterVille\Data Access Layer\RecruiterDAL\bin\Debug\RecruiterDAL.pdb
+D:\Karteek\Projects\RecruiterVille\Data Access Layer\RecruiterDAL\bin\Debug\IRecruiterDAL.dll
+D:\Karteek\Projects\RecruiterVille\Data Access Layer\RecruiterDAL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Karteek\Projects\RecruiterVille\Data Access Layer\RecruiterDAL\bin\Debug\RecruiterBE.dll
+D:\Karteek\Projects\RecruiterVille\Data Access Layer\RecruiterDAL\bin\Debug\RecruiterBE.pdb
+D:\Karteek\Projects\RecruiterVille\Data Access Layer\RecruiterDAL\bin\Debug\IRecruiterDAL.pdb
+D:\Karteek\Projects\RecruiterVille\Data Access Layer\RecruiterDAL\obj\Debug\RecruiterDAL.csprojResolveAssemblyReference.cache
+D:\Karteek\Projects\RecruiterVille\Data Access Layer\RecruiterDAL\obj\Debug\RecruiterDAL.dll
+D:\Karteek\Projects\RecruiterVille\Data Access Layer\RecruiterDAL\obj\Debug\RecruiterDAL.pdb
